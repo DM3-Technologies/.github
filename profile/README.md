@@ -1,62 +1,62 @@
-# Bem-vindo(a) ao GitHub da DM3 Technologies! 👋
+# Welcome to the DM3 Technologies GitHub! 👋
 
 <p align="center">
   <a href="https://www.dm3technologies.com.br" target="_blank">
-    <img src="https://www.dm3technologies.com.br/assets/img/logo.png" alt="Logo DM3 Technologies" width="200"/>
+    <img src="https://www.dm3technologies.com.br/assets/img/logo.png" alt="DM3 Technologies Logo" width="200"/>
   </a>
 </p>
 
 <p align="center">
-  <strong>Inovação e Tecnologia para sua Empresa.</strong>
+  <strong>Innovation and Technology for your Business.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.dm3technologies.com.br" target="_blank">Site Oficial</a> •
+  <a href="https://www.dm3technologies.com.br" target="_blank">Official Website</a> •
   <a href="https://www.linkedin.com/company/dm3technologies/" target="_blank">LinkedIn</a> •
   <a href="mailto:contato@dm3technologies.com.br">Email</a>
 </p>
 
 ---
 
-## 🚀 Sobre Nós
+## 🚀 About Us
 
-A **DM3 Technologies** é uma consultoria de tecnologia focada em impulsionar a transformação digital de empresas. Nossa missão é ser o parceiro estratégico para o crescimento do seu negócio, aplicando soluções tecnológicas personalizadas que otimizam processos, aumentam a eficiência e geram resultados concretos.
+**DM3 Technologies** is a technology consultancy focused on driving the digital transformation of companies. Our mission is to be the strategic partner for your business's growth by applying custom technological solutions that optimize processes, increase efficiency, and deliver concrete results.
 
-Acreditamos que a tecnologia é a ponte para o futuro. Por isso, combinamos expertise técnica com uma visão de negócio para criar soluções que não apenas resolvem problemas, mas também abrem novas oportunidades e vantagem competitiva no mercado.
+We believe that technology is the bridge to the future. That's why we combine technical expertise with a business vision to create solutions that not only solve problems but also open up new opportunities and provide a competitive edge in the market.
 
-## ✨ Nossos Serviços
+## ✨ Our Services
 
-Oferecemos um portfólio completo de serviços para fortalecer a presença digital e a eficiência operacional da sua empresa.
+We offer a complete portfolio of services to strengthen your company's digital presence and operational efficiency.
 
-| Serviço                  | Descrição                                                                                                                              |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 **Criação de Sites e Landing Pages** | Desenvolvemos sites profissionais, responsivos e focados na experiência do usuário (UX/UI) para fortalecer sua presença online.         |
-| 💻 **Desenvolvimento de Sistemas** | Criamos softwares e sistemas sob medida para automatizar processos, gerenciar dados e otimizar a operação do seu negócio.         |
-| 📈 **Marketing Digital** | Gerenciamos campanhas de Google Ads, aplicamos técnicas de SEO para aumentar sua visibilidade e administramos suas redes sociais. |
-| 🎨 **Identidade Visual** | Criamos e reestruturamos logotipos e toda a identidade visual da sua marca para que ela se destaque no mercado.                 |
+| Service                     | Description                                                                                                                               |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Website & Landing Page Creation** | We develop professional, responsive, and user-experience (UX/UI) focused websites to strengthen your online presence.           |
+| 💻 **System & Software Development** | We create custom software and systems to automate processes, manage data, and optimize your business operations.            |
+| 📈 **Digital Marketing** | We manage Google Ads campaigns, apply SEO techniques to increase your visibility, and handle your social media presence.      |
+| 🎨 **Visual Identity** | We design and redesign logos and the entire visual identity of your brand to make it stand out in the market.                     |
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-Em nossos projetos, utilizamos as tecnologias mais modernas e adequadas para cada desafio. Nosso time está sempre se atualizando para entregar soluções de alta performance, seguras e escaláveis. Algumas das tecnologias que fazem parte do nosso dia a dia incluem:
+In our projects, we use the most modern and appropriate technologies for each challenge. Our team is always updating its skills to deliver high-performance, secure, and scalable solutions. Some of the technologies that are part of our daily routine include:
 
 -   **Frontend:** HTML5, CSS3, JavaScript, React, Angular, Vue.js
 -   **Backend:** Node.js, Python, PHP, Java
--   **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+-   **Databases:** MySQL, PostgreSQL, MongoDB
 -   **Mobile:** React Native, Flutter
 -   **Cloud & DevOps:** AWS, Google Cloud, Docker
 -   **Marketing:** Google Analytics, Google Ads, SEMrush
 
-*Esta é uma lista representativa. A escolha da stack tecnológica é sempre personalizada para atender às necessidades específicas de cada projeto.*
+*This is a representative list. The choice of the tech stack is always customized to meet the specific needs of each project.*
 
-## 📫 Fale Conosco!
+## 📫 Contact Us!
 
-Estamos sempre abertos a novas ideias, projetos e parcerias. Se você tem um desafio e acredita que a tecnologia é a solução, vamos conversar!
+We are always open to new ideas, projects, and partnerships. If you have a challenge and believe technology is the solution, let's talk!
 
--   **📧 E-mail:** `contato@dm3technologies.com.br`
+-   **📧 Email:** `contato@dm3technologies.com.br`
 -   **📱 WhatsApp:** `+55 (11) 95080-1303`
 -   **🌐 Website:** [dm3technologies.com.br](https://www.dm3technologies.com.br)
 
 ---
 <p align="center">
-  <strong>DM3 Technologies | Transformando negócios através da tecnologia.</strong>
+  <strong>DM3 Technologies | Transforming businesses through technology.</strong>
 </p>
