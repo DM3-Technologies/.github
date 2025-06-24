@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.dm3technologies.com.br" target="_blank">
-    <img src="https://www.dm3technologies.com.br/assets/img/logo.png" alt="DM3 Technologies Logo" width="200"/>
+    <img src="https://assets.zyrosite.com/YZ98vnqlKjHPGKnE/dm3---preto-e-branco-YBg7G8WzGGT1w0rm.jpg" alt="DM3 Technologies Logo" width="200"/>
   </a>
 </p>
 
